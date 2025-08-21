@@ -5,4 +5,4 @@
 **🛡️ Mythical Protection**– Use spiritual items like the Wooden Cross to survive enemy ambushes \
 **📚 Divine Narrative** – You are guided by Bathala’s will. Disobey, and suffer the consequences. \
 **🐈 Cat Companion** – Your guide, your snarky helper, your only friend \
-**🔥 Hardcore Mode** – No resting. No mistakes. No mercy. \
+**🔥 Hardcore Mode** – No resting. No mistakes. No mercy.
