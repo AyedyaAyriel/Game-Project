@@ -14,7 +14,5 @@ Customize your character, forge your path, and uncover the truth behind a myster
 ### Emotion Bar (Feature)
 
 > The challenges of the game are simple, manage your character's health and strength, but to add something unique, the developers wanted to add an "emotion bar" in which the character's mood goes up and down and gives buffs and debuffs to the character.
-![](EmotionBar.png)
 
-> ![](EmotionBar2.png)
-The "saddened" state makes it harder for the player to battle foes as he/she is given debuffs that could hinder their battle with their enemies. The "neutral" state is the normal mood of the character no buffs and debuffs. The "Motivated" state gives the character a buff that could help them battle their enemies easier. And lastly, the "Rage" state, the state in which the character enters a sudden burst of strength, speed, and other buffs that could help the player progress through his/her enemies even faster but this state drains your health and strength after a period of time so be careful when to use it.
+> The "saddened" state makes it harder for the player to battle foes as he/she is given debuffs that could hinder their battle with their enemies. The "neutral" state is the normal mood of the character no buffs and debuffs. The "Motivated" state gives the character a buff that could help them battle their enemies easier. And lastly, the "Rage" state, the state in which the character enters a sudden burst of strength, speed, and other buffs that could help the player progress through his/her enemies even faster but this state drains your health and strength after a period of time so be careful when to use it.
