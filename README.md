@@ -20,12 +20,26 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <br>
 
 
-<h1 align="center"> TABLE OF CONTENTS </h1>
+<h1 align="center"> Game Dev Team </h2>
+
+<p align="center">
+  <br> Tarun, Ija Iriel <br>
+    <b> <i> Lead Designer, Game Director, & Creative Director </b> </i> <br>
+  <br> Breis, Jasper Miguel <br>
+      <b> <i> Lead Programmer </b> </i> <br>
+  <br> Kagahastian, Zet Emerson <br>
+    <b> <i> Gameplay Programmer & AI Programmer </b> </i> <br>
+  <br> Clarion, Zairiel </b> <br>
+    <b> <i> Graphics/Rendering Programmer </b ></i>
+    <br>
+</p>
+
+<h2 align="center"> We are the Computer Science students from National University - Laguna </h2>
 
 <details>
   <summary>
     <div align="center">
-      >>> <b> FOR A BETTER AND QUICK NAVIGATION, CLICK TO EXPAND </b> <<<
+      >>> <b> TABLE OF CONTENTS </b> <<<
     </div>
   </summary>
 
@@ -40,18 +54,6 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
   </div>
 </details>
-
-
-
-<h2 align="center"> Game Dev Team </h2>
-
-<p align="center">
-  <b> Tarun, Ija Iriel </b> <br>
-  <b> Breis, Jasper Miguel <br>
-    <b> Kagahastian, Zet Emerson <br>
-  <b> Clarion, Zairiel </b>
-</p>
-
 
 
 ### Key Features
