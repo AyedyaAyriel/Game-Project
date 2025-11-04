@@ -60,14 +60,19 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <h1 align="center"> About/Story </h1>
 
 ### Screenshots
+![](thumb/Bathala_Opening_Scene.png)
+![](thumb/Bathala_Opening_Scene2.png)
+![](thumb/Bathala_Opening_Scene3.png)
+![](thumb/Bathala_Opening_Scene4.png)
+![](thumb/Bathala_Opening_Scene5.png)
 
 ### Key Features
 
 <i> (Customization) </i>
-> (Kaloy) 
+> Kaloy (Male Protagonist)
 ![](thumb/Customize1.png)
 
-> (Marga)
+> Marga (Female Protagonist)
 ![](thumb/Customize2.png)
 
 (Emotion Bar)
