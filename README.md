@@ -1,6 +1,6 @@
 # Game-Project
 A game development for our subject E-Games Sports Elective
-![](Bathala.png)
+![](Bathala_Banner.png)
 
 ### Bathala Adventures
 
