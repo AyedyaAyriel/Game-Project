@@ -1,5 +1,7 @@
-![](Bathala_Banner.png)
+
   <h1 align="center"> Bathala Adventures (An RPG-Adventure Game) </h1>
+
+  ![](Bathala_Banner.png)
 
 <br>
   <p align="center"> <b> A Philippine myth-inspired survival Top-Down RPG where strategy and emotions shape your fate and the will of the god decides your path.
