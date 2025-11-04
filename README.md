@@ -59,8 +59,18 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
 <h1 align="center"> About/Story </h1>
 
+### Screenshots
+
 ### Key Features
-Emotion Bar (Feature)
+
+<i> Customization: </i>
+> (Kaloy) 
+![](thumb/Customize1.png)
+
+> (Marga)
+![](thumb/Customize2.png)
+
+(Emotion Bar)
 
 > The challenges of the game are simple, manage your character's health and strength, but to add something unique, the developers wanted to add an "emotion bar" in which the character's mood goes up and down and gives buffs and debuffs to the character.
 ![](thumb/EmotionBar.png)
@@ -77,6 +87,3 @@ We'll drop it here ;>
 
 ### Future Plans (soon...)
 We are planning to make it cross-platform so that everyone can play
-
-### Screenshots
-
