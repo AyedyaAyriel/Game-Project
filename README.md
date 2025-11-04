@@ -63,8 +63,12 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
 <p> <i> You are chosen. Not as a mere wanderer, but as a vessel of Bathala, the unseen god who
 shapes all fates. His will flows through you… to guide, to test, to forge your spirit in the fires
-of trial. Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
-you hold the power entrusted to you. </i> </p>
+of trial. </i> </p> 
+
+![](Official_Sketch_Map.png)
+
+<p> <i> Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
+you hold the power entrusted to you.... </i> </p>
 
 <h2 align="center"> ..... </h2>
 
