@@ -75,6 +75,8 @@ you hold the power entrusted to you. </i> </p>
 ![](thumb/Bathala_Opening_Scene4.png)
 ![](thumb/Bathala_Opening_Scene5.png)
 
+<h2 align="center"> ..... </h2>
+
 ### Key Features
 
 <i> (Customization) </i>
