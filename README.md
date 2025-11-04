@@ -39,7 +39,7 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <details>
   <summary>
     <div align="center">
-      >>> <b> TABLE OF CONTENTS </b> <<<
+      >>>>>> <b> TABLE OF CONTENTS </b> <<<<<<
     </div>
   </summary>
 
@@ -55,6 +55,9 @@ Customize your character, forge your path, and uncover the truth behind a myster
   </div>
 </details>
 
+<h2 align="center"> ..... </h2>
+
+<h1 align="center"> About/Story </h1>
 
 ### Key Features
 Emotion Bar (Feature)
@@ -66,12 +69,14 @@ Emotion Bar (Feature)
 > The "saddened" state makes it harder for the player to battle foes as he/she is given debuffs that could hinder their battle with their enemies. The "neutral" state is the normal mood of the character no buffs and debuffs. The "Motivated" state gives the character a buff that could help them battle their enemies easier. And lastly, the "Rage" state, the state in which the character enters a sudden burst of strength, speed, and other buffs that could help the player progress through his/her enemies even faster but this state drains your health and strength after a period of time so be careful when to use it.
 ![](thumb/EmotionBar2.png)
 
-### Installation
+### Installation (soon...)
+As of now, it will be available on Windows/PC
 
-### How to Play?
+### How to Play? (soon...)
+We'll drop it here ;>
+
+### Future Plans (soon...)
+We are planning to make it cross-platform so that everyone can play
 
 ### Screenshots
 
-### Future Plans
-
-### Author
