@@ -63,7 +63,7 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
 ### Key Features
 
-<i> Customization: </i>
+<i> (Customization) </i>
 > (Kaloy) 
 ![](thumb/Customize1.png)
 
