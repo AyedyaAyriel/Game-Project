@@ -39,7 +39,7 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <details>
   <summary>
     <div align="center">
-      >>>>>> <b> TABLE OF CONTENTS </b> <<<<<<
+      ====== <b> TABLE OF CONTENTS </b> ======
     </div>
   </summary>
 
