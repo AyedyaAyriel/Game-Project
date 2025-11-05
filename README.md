@@ -71,7 +71,7 @@ you hold the power entrusted to you.... </i> </p>
 <h2 align="center"> ..... </h2>
 
 <br> <h2 align="center"> Features </h2> </br>
-<p align="center"> <b> <i> Sample Gameplay </i> </p>
+<p align="center"> <b> <i> SAMPLE GAMEPLAY: </i> </p>
 
 ![](thumb/Bathala_Opening_Scene.png)
 ![](thumb/Bathala_Opening_Scene2.png)
