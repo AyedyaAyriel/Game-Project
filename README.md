@@ -15,8 +15,8 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <br>
 
   <br>
-<p align="center"> <b> Can you stay strong, keep your spirit intact, and uncover what it truly means to become Bathala?
-   </b> </p>
+<p align="center"> <b> <i> Can you stay strong, keep your spirit intact, and uncover what it truly means to become Bathala?
+</i> </b> </p>
 <br>
 
 
