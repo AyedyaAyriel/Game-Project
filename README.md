@@ -44,11 +44,10 @@ Customize your character, forge your path, and uncover the truth behind a myster
   </summary>
 
   <div align="center">
-
-  [Key Features](#key-features)  
+    
   [Installation](#installation)  
   [How to Play](#how-to-play)  
-  [Screenshots](#screenshots)  
+  [Mechanics](#mechanics)  
   [Future Plans](#future-plans)  
 
   </div>
@@ -60,18 +59,20 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
 ![](thumb/Bathala_MainMenu.png)
 
-<p> <i> You are chosen. Not as a mere wanderer, but as a vessel of Bathala, the unseen god who
+<p align="center"> <i> You are chosen. Not as a mere wanderer, but as a vessel of Bathala, the unseen god who
 shapes all fates. His will flows through you… to guide, to test, to forge your spirit in the fires
 of trial. </i> </p> 
 
 ![](Official_Sketch_Map.png)
 
-<p> <i> Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
+<p align="center"> <i> Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
 you hold the power entrusted to you.... </i> </p>
 
 <h2 align="center"> ..... </h2>
 
-### Screenshots
+<br> <h2 align="center"> Features </h2> </br>
+<p align="center"> <b> <i> Sample Gameplay </i> </p>
+
 ![](thumb/Bathala_Opening_Scene.png)
 ![](thumb/Bathala_Opening_Scene2.png)
 ![](thumb/Bathala_Opening_Scene3.png)
@@ -80,7 +81,8 @@ you hold the power entrusted to you.... </i> </p>
 
 <h2 align="center"> ..... </h2>
 
-### Key Features
+<br> <h2 align="center"> What makes the game unique? </h2> </br>
+### 1. Emotion Bar
 
 <i> (Customization) </i>
 > Kaloy (Male Protagonist)
@@ -88,8 +90,6 @@ you hold the power entrusted to you.... </i> </p>
 
 > Marga (Female Protagonist)
 ![](thumb/Customize2.png)
-
-(Emotion Bar)
 
 > The challenges of the game are simple, manage your character's health and strength, but to add something unique, the developers wanted to add an "emotion bar" in which the character's mood goes up and down and gives buffs and debuffs to the character.
 ![](thumb/EmotionBar.png)
