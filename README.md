@@ -46,7 +46,6 @@ Customize your character, forge your path, and uncover the truth behind a myster
   <div align="center">
 
   [Key Features](#key-features)  
-  [How does this feature work?](#how-does-this-feature-work)  
   [Installation](#installation)  
   [How to Play](#how-to-play)  
   [Screenshots](#screenshots)  
