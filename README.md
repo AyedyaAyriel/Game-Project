@@ -20,7 +20,7 @@ Customize your character, forge your path, and uncover the truth behind a myster
 <br>
 
 
-<h1 align="center"> Game Dev Team </h2>
+<h1 align="center"> Game Developers </h2>
 
 <p align="center">
   <br> Tarun, Ija Iriel <br>
