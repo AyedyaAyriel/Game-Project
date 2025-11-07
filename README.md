@@ -59,20 +59,21 @@ Customize your character, forge your path, and uncover the truth behind a myster
 
 ![](thumb/Bathala_MainMenu.png)
 
-<p align="center"> <i> You are chosen. Not as a mere wanderer, but as a vessel of Bathala, the unseen god who
+<p align="center"> <b><i> You are chosen. Not as a mere wanderer, but as a vessel of Bathala, the unseen god who
 shapes all fates. His will flows through you… to guide, to test, to forge your spirit in the fires
-of trial. </i> </p> 
+of trial. </i> </b> </p> 
 
 ![](Official_Sketch_Map.png)
 
-<p align="center"> <i> Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
-you hold the power entrusted to you.... </i> </p>
+<p align="center"> <b> <i> Only by enduring his signs, surviving the trials ahead, and proving yourself… shall
+you hold the power entrusted to you.... </b> </i> </p>
 
 <h2 align="center"> ..... </h2>
 
 <br> <h2 align="center"> Features </h2> </br>
-<p align="center"> <b> <i> SAMPLE GAMEPLAY: </i> </p>
+<p align="center"> <b> SCREENSHOT/GAMEPLAY: </p>
 
+> Note: these were all just samples only to showcase how the game would look.
 ![](thumb/Bathala_Opening_Scene.png)
 ![](thumb/Bathala_Opening_Scene2.png)
 ![](thumb/Bathala_Opening_Scene3.png)
